@@ -1,5 +1,5 @@
 # MitoLipoLink3.0
-
+[![DOI](https://zenodo.org/badge/1124014596.svg)](https://doi.org/10.5281/zenodo.18073592)
 MitoLipoLink 3.0 is a "one-click" tool designed for the quantitative analysis of spatial interactions between **Lipid Droplets** and **Mitochondria**.
 
 ## ✨ Key Features
