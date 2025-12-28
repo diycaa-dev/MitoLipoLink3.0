@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
- - family-names: "Chen"
+  - family-names: "Chen"
     given-names: "Shuangya"
   - family-names: "Su"
     given-names: "Wen"
 title: "MitoLipoLink 3.0"
-version: 3.0.0
-date-released: 2025-05-20
+version: 3.0.2
+doi: "10.5281/zenodo.18073593"
+date-released: 2025-12-28
 url: "https://github.com/diycaa-dev/MitoLipoLink3.0"
