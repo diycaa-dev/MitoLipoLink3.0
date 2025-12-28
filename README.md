@@ -11,11 +11,11 @@ MitoLipoLink 3.0 is a "one-click" tool designed for the quantitative analysis of
 ## 📝 How to Cite
 If you use this software, please cite it as follows:
 
-**Shuangya Chen. (2025). MitoLipoLink 3.0. GitHub. https://github.com/diycaa-dev/MitoLipoLink3.0**
+**Shuangya Chen, Wen Su. (2025). MitoLipoLink 3.0 (v3.0.1). Zenodo. https://doi.org/10.5281/zenodo.18073593**
 
 ```bibtex
 @misc{chen2025mitolipolink,
-  author = {Chen, Shuangya},
+  author = {Chen, Shuangya and Su, Wen},
   title = {MitoLipoLink 3.0},
   year = {2025},
   publisher = {GitHub},
